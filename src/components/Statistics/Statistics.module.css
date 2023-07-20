@@ -1,7 +1,7 @@
 .list {
-    background-color: rgb(201, 245, 235);
+    background-color: rgb(37, 16, 173);
     margin: 0;
-    padding: 20px;
+    padding: 30px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -10,7 +10,7 @@
 
 .item {
     margin-bottom: 5px;
-    font-size: 16px;
+    font-size: 30px;
 }
 
 .item:last-child {
